@@ -1,0 +1,123 @@
+[
+{
+"question":"The reduction potential of hydrogen electrode will be positive if",
+"choice1":"p(H2)=1atm,[H+]=1M",
+"choice2":"p(H2)=1atm,[H+]=2M",
+"choice3":"p(H2)=2atm,[H+]=1M",
+"choice4":"p(H2)=2.5atm,[H+]=1.5M",
+"Answer": 2
+},
+{
+"question":"pure water does not conduct electricity because it is",
+"choice1":"Neutral",
+"choice2":"Readily decomposed",
+"choice3":"Almost unionised",
+"choice4":"Completely ionised",
+"Answer": 3
+},
+{
+"question":"The reactions taking place at anode and cathode of a cell respectively are",
+"choice1":"Reduction, oxidation",
+"choice2":"Oxidation, reduction",
+"choice3":"Hydrolysis, oxidation",
+"choice4":"Reduction, hydrolysis",
+"Answer": 2
+},
+{
+"question":"During electrolysis elections flow from",
+"choice1":"cations to cathode",
+"choice2":"anode to anions",
+"choice3":"cathode to anode",
+"choice4":"anions to anode",
+"Answer": 4
+},
+{
+"question":"Corrosion is",
+"choice1":"Physical change",
+"choice2":"Neutralisation",
+"choice3":"Electrochemical change",
+"choice4":"None is true",
+"Answer": 3
+},
+{
+"question":"VA group elements are known as",
+"choice1":"Halogens",
+"choice2":"Normal elements",
+"choice3":"Chalcogens",
+"choice4":"Pnicogens",
+"Answer": 4
+},
+{
+"question":"Which one of the following has the lowest melting point?",
+"choice1":"N",
+"choice2":"P",
+"choice3":"As",
+"choice4":"Sb",
+"Answer": 1
+},
+{
+"question":"The most thermodynamically stable allotropic form of phosphorus is",
+"choice1":"Red P",
+"choice2":"Yellow P",
+"choice3":"Black P",
+"choice4":"All are stable",
+"Answer": 3
+},
+{
+"question":"The VA group element having more number of allotropes is",
+"choice1":"N",
+"choice2":"P",
+"choice3":"Bi",
+"choice4":"Sb",
+"Answer": 2
+},
+{
+"question":"Basicity of orthophosphoric acid is",
+"choice1":"2",
+"choice2":"3",
+"choice3":"4",
+"choice4":"5",
+"Answer": 2
+},
+{
+"question":"Atomicity of white phosphorus is",
+"choice1":"4",
+"choice2":"3",
+"choice3":"2",
+"choice4":"8",
+"Answer": 1
+},
+{
+"question":"Bismuth forms the only pentahalide with the halogen",
+"choice1":"Bromine",
+"choice2":"Fluorine",
+"choice3":"Chlorine",
+"choice4":"Iodine",
+"Answer": 2
+},
+{
+"question":"Which of the following is tetrabasic acid",
+"choice1":"Orthophosphotic acid",
+"choice2":"Orthophosphorous acid",
+"choice3":"Metaphosphoric acid",
+"choice4":"Pyrophosphoric acid",
+"Answer": 4
+},
+{
+"question":"Bismuth forms the only pentahalide with the halogen",
+"choice1":"Bromine",
+"choice2":"Fluorine",
+"choice3":"Chlorine",
+"choice4":"Iodine",
+"Answer": 2
+},
+{
+"question":"Cyanamide process is used to prepare",
+"choice1":"Cyanide",
+"choice2":"Isocyanide",
+"choice3":"Ammonia",
+"choice4":"Nitric acid",
+"Answer": 3
+}
+
+]
